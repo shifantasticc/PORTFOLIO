@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+button{
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 0.9rem;
+    background-color: rgb(89, 164, 164);
+    color: aliceblue;
+    border-style: none;
+    border: 2px solid aliceblue;
+    cursor: pointer;
+}
+
+.rightpart{
+    height: 100vh;
+    width: 50%;
+    background-color: black;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.heading h1{
+    justify-content: center;
+    text-align: center;
+    width: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 4px dotted aliceblue;
+    font-size: 5rem;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: center;
+    position: absolute;
+    height: 45vh;
+    width: 1.9vw;
+    border-radius: 20px;
+    background-color:rgb(89, 164, 164);
+    top: 170px;
+    right: 25px;
+}
+
+.navbar i{
+    padding: 10px 2px;
+    font-size: 1rem;
+} 
+
+.navbar button{
+    background-color: transparent;
+    border-style: none;
+    cursor: pointer;
+}
+
+.navbar button a{
+    color: aliceblue;
+}
+
+button a{
+    color: aliceblue;
+    text-decoration: none;
+    font-family: "poppins", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar button i:hover{
+    font-size: 1.3rem;
+    color: black;
+    opacity: 0.5;
+}
