@@ -32,12 +32,12 @@ This repository contains the source code for my personal portfolio website. The 
 ## 📂 Project Structure
 ```
 PORTFOLIO/
-│-- index.html        # Main webpage
+│-- index.html        # Main webpage<br>
 │-- styles/
-│   ├── main.css      # Core styling file
+│   ├── main.css      # Core styling file<be<
 │-- scripts/
-│   ├── main.js       # JavaScript functions & interactions
-│-- images/           # Portfolio images
+│   ├── main.js       # JavaScript functions & interactions<br>
+│-- images/           # Portfolio images<br>
 │-- projects/         # Project showcase details
 │-- README.md         # This file
 ```
