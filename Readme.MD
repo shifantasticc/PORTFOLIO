@@ -1,9 +1,9 @@
 ```md
-# <h1>🌟 Personal Portfolio Website<h1>
+# 🌟 Personal Portfolio Website
 
 Welcome to my **Portfolio Website** repository! This project showcases my skills, projects, and experiences in an simple manner.
 
-<h1>## ⚠️ Disclaimer<h1>
+## ⚠️ Disclaimer
 **This portfolio is currently a work in progress and is not yet fully completed. Some features and sections may be incomplete or subject to change.**
 
 ## 🎨 Live Demo
@@ -82,7 +82,7 @@ Want to run this project locally? Follow these steps:
 
 ## 📬 Contact Me
 📧 Email:(shifastudyit@gmail.com)  
-💼 LinkedIn: [your-profile-link]
+💼 LinkedIn: [https://www.linkedin.com/in/shifantastic/]
 
 ---
 
