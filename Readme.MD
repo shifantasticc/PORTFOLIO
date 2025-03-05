@@ -1,9 +1,9 @@
 ```md
-# 🌟 Personal Portfolio Website
+# <h1>🌟 Personal Portfolio Website<h1>
 
 Welcome to my **Portfolio Website** repository! This project showcases my skills, projects, and experiences in an simple manner.
 
-## ⚠️ Disclaimer
+<h1>## ⚠️ Disclaimer<h1>
 **This portfolio is currently a work in progress and is not yet fully completed. Some features and sections may be incomplete or subject to change.**
 
 ## 🎨 Live Demo
@@ -32,19 +32,19 @@ This repository contains the source code for my personal portfolio website. The 
 ## 📂 Project Structure
 ```
 PORTFOLIO/
-│-- index.html        # Main webpage<br>
-│-- styles/
-│   ├── main.css      # Core styling file<be<
-│-- scripts/
+│-- index.html        # Main webpage <br>
+│-- styles/ <br>
+│   ├── main.css      # Core styling file <br>
+│-- scripts/ <br>
 │   ├── main.js       # JavaScript functions & interactions<br>
-│-- images/           # Portfolio images<br>
-│-- projects/         # Project showcase details
-│-- README.md         # This file
+│-- images/           # Portfolio images <br>
+│-- projects/         # Project showcase details <br>
+│-- README.md         # This file <br>
 ```
 
 ---
 
-## 🎯 Sections Overview
+## 🎯 Sections Overview 
 ### 🔹 **Home**
 - Introduction & professional tagline
 - Eye-catching hero section with an image
